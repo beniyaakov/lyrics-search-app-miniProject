@@ -8,3 +8,6 @@ Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
 - Fetch songs/artists and put in DOM
 - Add pagination
 - Add get lyrics functionality and display in DOM
+
+#this project part of 20 Web Projects With Vanilla JavaScript by Brad Traversy
+
